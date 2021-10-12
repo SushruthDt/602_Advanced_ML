@@ -25,7 +25,7 @@ Feature Description and data types -
 ● Age: Rate of gain of strength is faster to start with and the rate gets reduced with age,day (1~365).
 ● CsMPa: Measurement unit of concrete strength,Concrete compressive strength measured in MPa [OUTPUT VARIABLE] .
 
-### Analysis to be done
+### Analysis Done
 To understand which features are important when it comes to increasing the strength of the cement. In addition, algorithms must be used to predict strength and select the best one among them.
 
 ### Conclusion
